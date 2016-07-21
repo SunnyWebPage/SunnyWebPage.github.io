@@ -1,0 +1,24 @@
+body {
+	color: Black;
+	font-size: 20px;
+	font-family: Times New Roman;
+	/*background-color: orange*/
+	background-image: url(BackgroundGradient.jpg);
+	background-attachment: fixed;
+}
+img {
+	width: 30%;
+	
+}
+th,table{
+	border-collaps: collaps;
+}
+
+em { font-style:italic; font-weight:bold; }
+strong { text-transform:uppercase; font-weight:bold; }
+	
+{
+position: fixed/absolute;
+top:
+
+}
